@@ -495,13 +495,6 @@ def play(b):
             GD.blit(yellowgoti,(xcy+2,ycy))
             
             
-        if 5>b>2:
-            GD.blit(greengoti,(xcg+4,ycg))
-            
-             
-        if 5>b>3:
-            GD.blit(bluegoti,(xcb+6,ycb))
-            
         if l:
             time=pygame.time.get_ticks()
             while pygame.time.get_ticks()-time<2000:
