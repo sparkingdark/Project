@@ -11,6 +11,7 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
  It is a multiplayer game that combine aspects of game mechanism from both, the traditional "Snakes and Ladders" game and "Chess".
  
   # Game Rules
+  
   1.Once the player is on the board, he will roll the dice again and will be assigned a chess piece 
       that may be a King, Knight, Rook or a Pawn.
       
