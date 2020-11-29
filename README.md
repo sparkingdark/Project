@@ -29,7 +29,7 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
     
     5.If the player encounters a snake, then he will be transported to the tail of the Snake.
     
-    6.The Player to reach the top first will be the winner.
+    6.The first Player to reach the top will be the winner.
             
 # Setup Instructions:
 
