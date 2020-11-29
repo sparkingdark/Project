@@ -4,13 +4,13 @@ This is the *official* repo for our team, Who Wants To Be A Hackionaire :smile:
 
 ![alternate text](https://www.techiedelight.com/wp-content/uploads/2016/11/Snakes-And-Ladders-Problem.jpg)
 
-  <h3>SnakeMate Game
+  <h3>SnakeMate Game<h3>
   
-  We have built a "Snakes and ladder" plus "Chess" board game.
+ We have built a "Snakes and ladder" plus "Chess" board game.
  
  It is a multiplayer game that combine aspects of game mechanism from both, the traditional "Snakes and ladder" game and "Chess".
  
-  <h4>Game Rules
+  <h4>Game Rules<h4>
         
         1.For getting started, the player has to get "1" or "6" on the dice.
         
