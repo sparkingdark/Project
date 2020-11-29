@@ -12,10 +12,10 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
  
   Game Rules
         
-        1.For getting started, the player has to get "1" or "6" on the dice.
-        
-        2.After the player is on the board, he will roll the dice again and will be assigned a chess piece 
+        1.Once the player is on the board, he will roll the dice again and will be assigned a chess piece 
           that may be a King, Knight, Rook or a Pawn.
+          
+        2.When you roll a 6, you get an extra turn.
           
         3.The following conditions are follwed by the various chess pieces:
             
