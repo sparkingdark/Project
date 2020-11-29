@@ -24,4 +24,8 @@ This is the *official* repo for our team, Who Wants To Be A Hackionaire :smile:
               steps and if the die is lower than 3 then it will not move. 
             c.A Rook can move any number of steps forward in that particular row.
             d.A pawn can only move one step forward.
- 
+            
+ Setup Instructions:
+
+Python IDE
+Pygame
