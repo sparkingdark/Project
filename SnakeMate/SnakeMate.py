@@ -194,7 +194,7 @@ def turn(score,l,s,piece):
         elif a<6:
             a=3
         else: a=6
-    elif piece == pawnb or piece==pawnw or piece == kingb or piece==kingw:
+    elif piece == kingb or piece==kingw:
         a=1
     score+=a
     if score<=100:
