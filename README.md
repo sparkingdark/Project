@@ -20,11 +20,16 @@ This is the *official* repo for our team, submiting to for the "Who Wants To Be 
     3.The following conditions are follwed by the various chess pieces:
         
         a.A King can move forward or upward in direction, by one block. 
-        b.A Knight will move forward by three steps if the die rolled is 3,4 or 5. If the die rolled is 6 then it will move 6
-          steps and if the die is rolled lower than 3 then it will not move. 
+        b.A Knight will move forward by three steps if the die rolled is 3,4 or 5. If the die rolled is 6, 
+          then it will move 6 steps, and if the die is rolled lower than 3 then it will not move. 
         c.A Rook can move any number of steps forward in that particular row, and so it will move the number rolled by the die.
-        d.A pawn can only move one step forward, irrespective of the number rolled by the die.
-
+        d.A Pawn can only move one step forward, irrespective of the number rolled by the die.
+    
+    4.If the player reaches the ladder, then he will transpoted to the top of that particular ladder.
+    
+    5.If the player encounters a snake, then he will be transported to the tail of the Snake.
+    
+    6.The Player to reach the top first will be the winner.
             
 # Setup Instructions:
 
