@@ -41,13 +41,11 @@ dice6=pygame.image.load("Dice6.png")
 kingb=pygame.image.load("kingb.png")
 knightb=pygame.image.load("knightb.png")
 rookb=pygame.image.load("rookb.png")
-pawnb=pygame.image.load("pawnb.png")
 
 
 kingw=pygame.image.load("kingw.png")
 knightw=pygame.image.load("knightw.png")
 rookw=pygame.image.load("rookw.png")
-pawnw=pygame.image.load("pawnw.png")
 
 menubg=pygame.image.load("bg1.jpg")
 p=pygame.image.load("bg2.jpg")
@@ -69,23 +67,19 @@ def assignpieceb(a):
         return kingb
     elif a==2:
         return rookb
-    elif a==3:
-        return knightb
     else:
-        return pawnb
+        return knightb
 
 def assignpiecew(a):
     if a==1:
         return kingw
     elif a==2:
         return rookw
-    elif a==3:
-        return knightw
     else:
-        return pawnw
+        return knightw
 
-redgoti=assignpieceb(randint(1,4))
-yellowgoti=assignpiecew(randint(1,4))
+redgoti=assignpieceb(randint(1,3))
+yellowgoti=assignpiecew(randint(1,3))
 
 
 #Message displaying for buttons
